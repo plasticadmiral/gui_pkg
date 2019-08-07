@@ -1,2 +1,2 @@
 # gui_pkg
-remote GUI package for genquad
+remote GUI package for genquad using Qt framework
